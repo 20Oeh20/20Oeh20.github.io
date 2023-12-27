@@ -1,2 +1,0 @@
-# TheoTruong
-Portfolio
