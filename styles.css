@@ -30,3 +30,8 @@ section {
     filter: blur(0);
     transform: translateX(0);
 }
+
+.topnav {
+    background-color: aliceblue;
+    color: aqua;
+}
